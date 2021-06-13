@@ -1,11 +1,8 @@
 body
 {
-	background: linear-gradient(green 0%, blue 50%, red 100%);
-	background-image: url("download (2).jpg");
-	background-size: 100%;
+	background: linear-gradient(green 5%, blue 55%, red 90%);
 	text-align: center;
 }
-
 .login_div1 , .login_div2
 	{
 		background: white;
@@ -13,14 +10,12 @@ body
 		float: none;
 		border-radius: 15px;
 	}
-
-
-#player1_name , #player2_name
+#player1_name, #player2_name
 {
 	display: inline-block;
 	margin-left: 20px;
 }
-#word
+#number1, #number2
 {
 	width: 60%;
 }
@@ -36,4 +31,9 @@ border-top: 10px solid #AA4465;
 padding: 10px;
 float: none;
 text-align: left;
+}
+p
+{
+	text-size-adjust: 8px;
+	color: white;
 }
