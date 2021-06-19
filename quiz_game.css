@@ -1,30 +1,29 @@
-body
-{
+body{
 	background: linear-gradient(green 5%, blue 55%, red 90%);
 	text-align: center;
 }
+h4{
+	color: snow;
+}
+span{
+	color: snow;
+}
 .login_div1 , .login_div2
-	{
+{
 		background: white;
 		padding: 10px;
 		float: none;
 		border-radius: 15px;
-	}
-#player1_name, #player2_name
-{
+}
+#number1, #number2{
 	display: inline-block;
 	margin-left: 20px;
-}
-#number1, #number2
-{
 	width: 60%;
 }
-#word_display
-{
+#word_display{
 	letter-spacing: 5px;
 }
-#output
-{
+#output{
 background: white;
 border-radius: 10px;
 border-top: 10px solid #AA4465;
@@ -32,8 +31,6 @@ padding: 10px;
 float: none;
 text-align: left;
 }
-p
-{
-	text-size-adjust: 8px;
+p{
 	color: white;
 }
