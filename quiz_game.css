@@ -1,12 +1,12 @@
 body{
-	background: linear-gradient(green 5%, blue 55%, red 90%);
+	background: linear-gradient(yellow 0%, purple 100%);
 	text-align: center;
 }
 h4{
-	color: snow;
+	color: indigo;
 }
 span{
-	color: snow;
+	color: purple;
 }
 .login_div1 , .login_div2
 {
@@ -24,7 +24,7 @@ span{
 	letter-spacing: 5px;
 }
 #output{
-background: white;
+background: green;
 border-radius: 10px;
 border-top: 10px solid #AA4465;
 padding: 10px;
